@@ -1,7 +1,4 @@
 
-
-## Write a short comment describing this function
-
 # Function: makeCacheMatrix
 # Takes a matrix object and builds an object intended to cache the
 # inverse of itself.  Intended for use with function cacheSolve()
